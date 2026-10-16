@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": "a7Kp9Lm",
+      "email": "employee1@company.com",
+      "password": "Emp@123"
+    },
+    {
+      "id": "b4Nx2Qw",
+      "email": "employee2@company.com",
+      "password": "Emp@456"
+    },
+    {
+      "id": "c8Rt5Vz",
+      "email": "employee3@company.com",
+      "password": "Emp@789"
+    },
+    {
+      "id": "d3Ym6Hs",
+      "email": "manager@company.com",
+      "password": "Manager@123"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

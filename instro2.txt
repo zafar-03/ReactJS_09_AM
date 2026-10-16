@@ -1,0 +1,31 @@
+package Manager : 
+	manage : packages/dependencies  (install / Update /delete )
+
+NPM : Node Package Manager 
+	automatically install (Node)
+
+react : project (web - frontend)
+	- need 
+		(tailwind)
+	- npm install packagename
+	- npm unistall packagename
+	- npm run dev
+
+	npm create vite@latest
+
+=======================
+yarn : (Manually Installation)
+	yarn add packagename
+	yarn remove packagename
+	yarn dev
+========================
+npx  : node package execute 
+
+	npx create-react-app appname
+	
+
+
+
+
+
+	

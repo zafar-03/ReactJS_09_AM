@@ -1,0 +1,84 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "date": "2026-09-01",
+      "author": "Rahul Sharma",
+      "description": "Learn the basics of React, components, props, state, and how to build modern user interfaces.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee"
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with JavaScript",
+      "date": "2026-09-03",
+      "author": "Priya Patel",
+      "description": "A beginner-friendly guide to JavaScript variables, functions, arrays, objects, and events.",
+      "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479"
+    },
+    {
+      "id": 3,
+      "title": "Understanding Node.js",
+      "date": "2026-09-05",
+      "author": "Amit Kumar",
+      "description": "Explore Node.js and learn how JavaScript can be used to create powerful backend applications.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+    },
+    {
+      "id": 4,
+      "title": "MongoDB for Beginners",
+      "date": "2026-09-07",
+      "author": "Neha Shah",
+      "description": "Learn how MongoDB stores data using documents and collections and understand basic CRUD operations.",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+    },
+    {
+      "id": 5,
+      "title": "HTML and CSS Basics",
+      "date": "2026-09-10",
+      "author": "Smit Patel",
+      "description": "Understand HTML structure, CSS styling, layouts, colors, fonts, and responsive web design.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+    },
+    {
+      "id": 6,
+      "title": "Python Programming Guide",
+      "date": "2026-09-12",
+      "author": "Karan Mehta",
+      "description": "Start your Python journey by learning variables, conditions, loops, functions, and object-oriented programming.",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935"
+    },
+    {
+      "id": 7,
+      "title": "What is Full Stack Development?",
+      "date": "2026-09-15",
+      "author": "Dhruv Joshi",
+      "description": "Learn about frontend, backend, databases, APIs, and the technologies used by full stack developers.",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+    },
+    {
+      "id": 8,
+      "title": "REST API Explained",
+      "date": "2026-09-18",
+      "author": "Mehul Desai",
+      "description": "Understand REST APIs, HTTP methods such as GET, POST, PUT, PATCH, and DELETE with practical examples.",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+    },
+    {
+      "id": 9,
+      "title": "Introduction to Git and GitHub",
+      "date": "2026-09-21",
+      "author": "Yash Patel",
+      "description": "Learn how Git and GitHub help developers manage code, track changes, and collaborate on projects.",
+      "image": "https://images.unsplash.com/photo-1556075798-4825dfaaf498"
+    },
+    {
+      "id": 10,
+      "title": "Tips for Learning Web Development",
+      "date": "2026-09-25",
+      "author": "Jay Shah",
+      "description": "Discover practical tips and strategies to improve your web development skills and build better projects.",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Node Properly Install : node -v / node --version
+NPM Properly Install : npm -v / npm --version
+
+
+Terminal :
+Node : node
+
+
+npm create vite@latest

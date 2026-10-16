@@ -1,0 +1,41 @@
+// useEffect(() => {
+        // fetch(API,{
+        //     method : "GET",
+        //     headers : {
+        //         "Content-Type" : "application/json"
+        //     }
+        // }).then((res)=>{
+        //     res.json().then((data)=>{
+        //         console.log(data);
+        //     })
+        // })
+        // const data =  axios.get(API);
+        // data.then((res)=>{
+        //     console.log(res.data);
+        // })
+
+
+        // const data = await axios.get(API).then((res)=>{
+        //     return res.data;
+        // });
+
+        // console.log(data);
+
+        // fetch(API,{
+        //     method : "POST",
+        //     headers : {
+        //         "Content-Type" : "application/json"
+        //     },
+        //     body : ""
+        // });
+
+        // // axios.post(API,{});
+        // var id = "e9Wk1Jf";
+        // // axios.delete(`${API}/${id}`);
+
+        // axios.put(`${API}/${id}`, {
+        //     "id": "e9Wk1Jf",
+        //     "email": "admin@.com",
+        //     "password": "Admin@123"
+        // });
+    // }, []);

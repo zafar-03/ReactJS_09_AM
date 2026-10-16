@@ -1,0 +1,22 @@
+.my-bg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.653),rgba(0, 0, 0, 0.653)),url("https://bootstrapmade.com/content/demo/Passion/assets/img/bg/bg-14.webp");
+    height: 100vh;
+    width: 100%;
+}
+
+
+.my-class-2{
+    background-color: rgba(128, 128, 128, 0.41);
+    backdrop-filter: blur(5px);
+    border: 1px solid rgba(166, 166, 166, 0.585);
+    color: white;
+}
+
+.rounded-101{
+    border-radius: 30px !important;
+}
+.placeholder-p-1{
+    bottom: 30px;
+    left: -20px;
+    box-shadow: 2px 2px 8px gainsboro;
+}

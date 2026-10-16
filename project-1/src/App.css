@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 70px;
+    background-color: #222;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+}
+
+#logo {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    gap: 30px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav a:hover {
+    color: #00bcd4;
+}
+
+#hero {
+    height: 500px;
+    background-color: #f2f7ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#hero h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+#hero p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 12px 25px;
+    border: none;
+    background-color: #00bcd4;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0097a7;
+}
+
+#about {
+    padding: 60px 50px;
+    text-align: center;
+}
+
+#about h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+#cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+#card1,
+#card2,
+#card3 {
+    width: 280px;
+    padding: 30px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 8px #ccc;
+}
+
+#card1 h3,
+#card2 h3,
+#card3 h3 {
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

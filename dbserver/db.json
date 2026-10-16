@@ -1,0 +1,22 @@
+{
+  "blog": [
+    {
+      "id": "10",
+      "title": "Tips for Learning Web Development",
+      "description": "Practice regularly, build projects, understand fundamentals, and keep improving your coding skills.",
+      "author": "Anjali Desai",
+      "category": "Web Development",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Web Development",
+      "author": "Anjali Desai",
+      "description": "Practice regularly, build projects, understand fundamentals, and keep improving your coding skills.",
+      "date": "2026-09-10",
+      "category": "Web Development",
+      "id": "Y5Pe_hNdN9k"
+    }
+  ],
+  "employee": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,73 @@
+section{
+    background-color: rgb(80, 155, 136);
+    padding: 100px;
+}
+form{
+    width: 100%;
+    background-color: white;
+    float: left;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgb(237, 237, 237);
+    display: grid;
+    gap: 15px;
+}
+
+.form-field{
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.form-field main{
+    display: flex;
+    position: relative;
+}
+.form-field main:nth-child(1){
+    flex-basis: 26%;
+    flex-grow: 1;
+    
+}
+
+.form-field main:nth-child(2){
+    flex-basis: 26%;
+    flex-grow: 1;
+}
+.form-field main:nth-child(3){
+    flex-basis: 26%;
+    flex-grow: 1;
+}
+.form-field main input{
+    flex-grow: 1;
+    padding: 10px 15px 10px 50px;
+    font-size: 18px;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+}
+::placeholder{
+    color: black;
+    font-family: calibri;
+}
+
+.form-field main:nth-child(4){
+    flex-basis: 100%;
+}
+.form-field main:nth-child(5){
+    flex-basis: 100%;
+}
+.form-field main:nth-child(6){
+    flex-basis: 100%;
+    gap: 10px;
+}
+button{
+    flex-grow: 1;
+    padding: 10px;
+    font-size: 18px;
+    font-family: calibri;
+    background-color: rgb(201, 232, 192);
+    color:  rgb(34, 69, 24);
+    border: none;
+    border-radius: 4px;
+}
+
+/*  */
+/* https://fusioodir.blob.core.windows.net/fusioopub/guide/webform/webform-add-field.png */

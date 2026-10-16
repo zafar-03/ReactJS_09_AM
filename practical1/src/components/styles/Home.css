@@ -1,0 +1,32 @@
+section{
+    padding: 50px 10%;
+    font-family: verdana;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+section h1{
+    text-align: center;
+    font-size: 56px;
+    color: darkslategray;
+}
+section div{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   gap: 20px;
+   color: darkslategray;
+}
+main{
+    background-color: white;
+    box-shadow: 1px 1px 5px gainsboro;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+main h2{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
